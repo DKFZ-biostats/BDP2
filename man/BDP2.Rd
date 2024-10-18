@@ -89,9 +89,7 @@ leading to declaring of, or early termination for, efficacy).
 %% ...
 %}
 \references{
-Kopp-Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O. and Abel, U. (2018).\cr Monitoring futility and efficacy in phase II trials with Bayesian
-posterior distributions - a calibration approach. 
-\emph{Biometrical Journal}, to appear.
+Kopp‐Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O., and Abel, U. (2019).\cr Monitoring futility and efficacy in phase II trials with Bayesian posterior distributions—A calibration approach. \emph{Biometrical Journal}, 61(3), 488-502.
 }
 %\author{
 %%  ~~who you are~~

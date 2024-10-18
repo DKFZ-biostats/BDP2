@@ -27,9 +27,7 @@ Main functions: \code{\link{BDP2workflow}}, \code{\link{BDP2}} and \code{\link{p
 Maintainer: \packageMaintainer{BDP2}
 }
 \references{
-Kopp-Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O. and Abel, U. (2018).\cr Monitoring futility and efficacy in phase II trials with Bayesian
-posterior distributions - a calibration approach. 
-\emph{Biometrical Journal}, to appear.
+Kopp‐Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O., and Abel, U. (2019).\cr Monitoring futility and efficacy in phase II trials with Bayesian posterior distributions—A calibration approach. \emph{Biometrical Journal}, 61(3), 488-502.
 }
 %~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~
 \keyword{ package }
