@@ -121,6 +121,6 @@ fluidPage(
     )
   ),br(),br(),
   h4("Reference"),
-  h5("KKopp‐Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O., & Abel, U. (2019). Monitoring futility and efficacy in phase II trials with Bayesian posterior distributions—A calibration approach. Biometrical Journal, 61(3), 488-502.")
+  h5("Kopp‐Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O., & Abel, U. (2019). Monitoring futility and efficacy in phase II trials with Bayesian posterior distributions—A calibration approach. Biometrical Journal, 61(3), 488-502.")
 
 )
