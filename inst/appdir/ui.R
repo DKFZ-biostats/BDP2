@@ -3,7 +3,7 @@ library(BDP2)
 
 fluidPage(
   # oben  
-  titlePanel("VFL Sampling calculator"),
+  titlePanel(paste0("BDP2 workflow (version ",packageVersion('BDP2'),")")),
   h3("Workflow to determine design parameters for a multi-stage single-arm phase II trial with binary endpoint. Declaration of efficacy and futility is based on Bayesian posterior distribution."),
   h4("Annette Kopp-Schneider, Manuel Wiesenfarth, Division of Biostatistics, German Cancer Research Center (DKFZ), Heidelberg, Germany"),
   br(),
@@ -122,5 +122,4 @@ fluidPage(
   ),br(),br(),
   h4("Reference"),
   h5("Kopp‐Schneider, A., Wiesenfarth, M., Witt, R., Edelmann, D., Witt, O., & Abel, U. (2019). Monitoring futility and efficacy in phase II trials with Bayesian posterior distributions—A calibration approach. Biometrical Journal, 61(3), 488-502.")
-
 )
